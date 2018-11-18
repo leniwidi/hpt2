@@ -1,9 +1,4 @@
-/*!
-*  Roblox Niche
- * Main.js - Hearth of Application
- * Copyright 2013-2018 CPACodex.com, Inc.
- * Licensed under the MIT license
- */
+
 
 $( document ).ready( function() {
 	$("[name='my-checkbox']").bootstrapSwitch();
