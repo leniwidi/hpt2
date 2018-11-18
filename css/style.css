@@ -12,7 +12,7 @@ body {
 	margin: 0;
 	padding: 0;
     height: 100%;
-    background-image: url(https://cdn.jsdelivr.net/gh/leniwidi/hpt/img/bg.jpg);
+    background-image: url(img/bg.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;		
@@ -46,7 +46,7 @@ a:focus {
 	margin-bottom: 150px;
 }
 .bg1 {
-	background: url(https://cdn.jsdelivr.net/gh/leniwidi/hpt/img/bg22.png) no-repeat;
+	background: url(img/bg22.png) no-repeat;
 	height: 77px;
 	top: -77px;
 	position: absolute;
@@ -54,7 +54,7 @@ a:focus {
 	left: 0;
 }
 .bg2 {
-	background: url(https://cdn.jsdelivr.net/gh/leniwidi/hpt/img/bg11.png) no-repeat;
+	background: url(img/bg11.png) no-repeat;
 	height: 77px;
 	bottom: -77px;
 	position: absolute;
@@ -62,7 +62,7 @@ a:focus {
 	left: 0;
 }
 .title_bar {
-	background: url(https://cdn.jsdelivr.net/gh/leniwidi/hpt/img/tabs-bg.png) repeat-x;
+	background: url(img/tabs-bg.png) repeat-x;
 	height: 90px;
 }
 ul.title_tabs {
@@ -87,7 +87,7 @@ ul.title_tabs li a:hover,
 .title_tabs > .active > a,
 .title_tabs > .active > a:hover,
 .title_tabs > .active > a:focus {
-	background: url(https://cdn.jsdelivr.net/gh/leniwidi/hpt/img/tabs-hover.png) center no-repeat;
+	background: url(img/tabs-hover.png) center no-repeat;
 	color: #FFB500;
 }
 ul.title_tabs li i {
@@ -123,7 +123,7 @@ ul.title_tabs li i {
 }
 .generator_btn {
 	border: none;
-	background: url(https://cdn.jsdelivr.net/gh/leniwidi/hpt/img/tabs-bg.png) repeat-x;
+	background: url(img/tabs-bg.png) repeat-x;
 	color: #262626;
 	width: 85%;
 	padding: 13px 0;
@@ -135,7 +135,7 @@ ul.title_tabs li i {
 	position: relative;
 }
 .generator_btn:hover {
-	background: #262626 url(https://cdn.jsdelivr.net/gh/leniwidi/hpt/img/bg_hover.png) no-repeat;
+	background: #262626 url(img/bg_hover.png) no-repeat;
 	color: #FFB500;
 }
 .platform h1 {
@@ -179,13 +179,13 @@ h1.title_text2 {
 	margin: 20px;
 }
 .platform ul li:hover, .platform ul li:focus {
-	background: #262626 url(https://cdn.jsdelivr.net/gh/leniwidi/hpt/img/bg_hover.png) no-repeat;
+	background: #262626 url(img/bg_hover.png) no-repeat;
 	color: #fff;
 	cursor: pointer;
 }
 
 .active_platform {
-	background: #262626 url(https://cdn.jsdelivr.net/gh/leniwidi/hpt/img/bg_hover.png) no-repeat!important;
+	background: #262626 url(img/bg_hover.png) no-repeat!important;
 	color: #fff!important;
 }
 .platform ul li i {
